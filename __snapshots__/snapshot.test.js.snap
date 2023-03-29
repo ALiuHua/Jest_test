@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test generateAnotherConfig function 1`] = `
+Object {
+  "domain": "https://localhost",
+  "port": 8080,
+  "server": "http://localhost",
+  "time": Any<Date>,
+}
+`;
+
+exports[`test generateConfig function 1`] = `
+Object {
+  "domain": "https://localhost",
+  "port": 8080,
+  "server": "http://localhost",
+}
+`;
